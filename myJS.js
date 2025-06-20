@@ -1,1 +1,1 @@
-document.write(11 + 600);
+document.write(100 + 200);
